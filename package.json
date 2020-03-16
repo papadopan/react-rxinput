@@ -21,7 +21,9 @@
     "test:watch": "nwb test-react --server",
     "webpack": "webpack"
   },
-  "dependencies": {},
+  "dependencies": {
+    "nwb": "^0.24.3"
+  },
   "peerDependencies": {
     "incr-regex-package": ">=1",
     "react": ">=15",
